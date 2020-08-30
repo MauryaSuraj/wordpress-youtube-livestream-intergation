@@ -1,0 +1,30 @@
+/* 
+CUSTOM CSS FILE 
+Write your custom CSS styles here.
+*/
+
+	btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    border: none;
+    padding: 8px !important;
+}
+
+#add_live_video{
+	padding: 8px !important;
+}
+
+
+  .col-md-4 {
+    display: inline-block;
+}
+
+body{
+	background: white !important;
+}
+
+.toplevel_page_youlive #adminmenu .wp-menu-image img{
+	/*padding: 0px !important;*/
+	height: 20px !important; width: 20px !important;
+}
